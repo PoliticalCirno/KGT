@@ -1,0 +1,13 @@
+sign saymyname = "walter white";
+
+spellcard(saymyname);
+
+lunatic youregoddamnright(damn)
+{
+    spellcard(damn);
+};
+
+youregoddamnright("You're god damn right");
+
+spellcard("OMG IS THIS BREAKING BAD REFERENCE???!?!?!?!?!");
+

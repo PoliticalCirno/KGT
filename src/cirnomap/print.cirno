@@ -1,0 +1,12 @@
+sign varNameHere = "word here";
+
+spellcard("word here");
+
+spellcard(varNameHere);
+
+lunatic fuctionNameHere(signNameHere)
+{
+    spellcard(signNameHere);
+};
+
+fuctionNameHere("word here");
